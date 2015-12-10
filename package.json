@@ -1,0 +1,26 @@
+{
+  "name": "sapi-auth",
+  "version": "0.1.0",
+  "description": "A Hapi plugin to wire up auth in socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthsteedious/sapi-auth.git"
+  },
+  "keywords": [
+    "hapi",
+    "auth",
+    "sockets",
+    "socket.io",
+    "bell"
+  ],
+  "author": "Ed McDonald <darthsteedious@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darthsteedious/sapi-auth/issues"
+  },
+  "homepage": "https://github.com/darthsteedious/sapi-auth#readme"
+}
